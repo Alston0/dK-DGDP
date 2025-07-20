@@ -1,4 +1,4 @@
-# A dK-Series based Differential Privacy Approach for Publishing Directed Social Network Graph
+# dK-DGDP: a Differential Privacy Approach on Directed Social Network Graphs
 
 
 
